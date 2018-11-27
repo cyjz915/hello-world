@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello everyone, 
+This is ALEX who likes cake, coffee.
